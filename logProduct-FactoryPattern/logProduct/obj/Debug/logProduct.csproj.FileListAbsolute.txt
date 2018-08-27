@@ -1,0 +1,7 @@
+C:\Users\ShmilyB\source\repos\logProduct\logProduct\bin\Debug\logProduct.exe.config
+C:\Users\ShmilyB\source\repos\logProduct\logProduct\bin\Debug\logProduct.exe
+C:\Users\ShmilyB\source\repos\logProduct\logProduct\bin\Debug\logProduct.pdb
+C:\Users\ShmilyB\source\repos\logProduct\logProduct\obj\Debug\logProduct.csprojResolveAssemblyReference.cache
+C:\Users\ShmilyB\source\repos\logProduct\logProduct\obj\Debug\logProduct.csproj.CoreCompileInputs.cache
+C:\Users\ShmilyB\source\repos\logProduct\logProduct\obj\Debug\logProduct.exe
+C:\Users\ShmilyB\source\repos\logProduct\logProduct\obj\Debug\logProduct.pdb
